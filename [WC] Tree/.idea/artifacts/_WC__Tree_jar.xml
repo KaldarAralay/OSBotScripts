@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[WC] Tree:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_WC__Tree_jar</output-path>
+    <root id="archive" name="[WC] Tree.jar">
+      <element id="module-output" name="[WC] Tree" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OSBot 2.4.39.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/OSBot 2.4.100.jar" />
+    </root>
+  </artifact>
+</component>

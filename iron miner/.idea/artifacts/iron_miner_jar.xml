@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iron miner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/iron_miner_jar</output-path>
+    <root id="archive" name="iron miner.jar">
+      <element id="module-output" name="iron miner" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OSBot 2.4.39.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

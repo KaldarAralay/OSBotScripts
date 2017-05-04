@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flyfisher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flyfisher_jar</output-path>
+    <root id="archive" name="flyfisher.jar">
+      <element id="module-output" name="flyfisher" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OSBot 2.4.39.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

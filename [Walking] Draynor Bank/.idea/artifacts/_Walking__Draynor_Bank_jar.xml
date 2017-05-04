@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[Walking] Draynor Bank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_Walking__Draynor_Bank_jar</output-path>
+    <root id="archive" name="[Walking] Draynor Bank.jar">
+      <element id="module-output" name="[Walking] Draynor Bank" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OSBot 2.4.39.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

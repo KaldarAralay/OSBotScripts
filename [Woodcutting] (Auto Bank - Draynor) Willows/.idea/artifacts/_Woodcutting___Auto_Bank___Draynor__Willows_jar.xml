@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[Woodcutting] (Auto Bank - Draynor) Willows:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_Woodcutting___Auto_Bank___Draynor__Willows_jar</output-path>
+    <root id="archive" name="[Woodcutting] (Auto Bank - Draynor) Willows.jar">
+      <element id="module-output" name="[Woodcutting] (Auto Bank - Draynor) Willows" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OSBot 2.4.39.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

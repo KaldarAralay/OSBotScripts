@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fletcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fletcher_jar</output-path>
+    <root id="archive" name="Fletcher.jar">
+      <element id="module-output" name="Fletcher" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OSBot 2.4.39.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
